@@ -1,0 +1,544 @@
+Who organized the data? Andréia Seixas Leal
+
+What is the data source? ultrsoundcases.info
+
+UltrasoundCases.info is a site operated by SonoSkills BV. They are registered in The Netherlands under company number 77767292 and have their registered office at Minderbroederssingel 13c, 6041 KG Roermond. The website contains all cases authored by Dr. Taco Geertsma. He is a retired radiologist and has worked in the Gelderse Vallei hospital from January 1, 1983. till July 1, 2014 He was the head of the ultrasound department for many years.
+__________________________________________________________________________________________________
+STRUCTURE DESCRIPTION:
+[F-20] - Xxxxxx: file1 to file 3
+|_ F: female
+|_ 20 years old
+|_ Condition presented on ultrsound is Xxxxxx
+|_ Name of the files of ultrasound image of this pacient: file1 to file3
+___________________________________________________________________________________________________
+
+1 ABDOMEN AND RETROPERITONEUM
+
+1.1 LIVER:
+
+1.1.1 Focal Nodular Hyperplasia (FNH)
+ [F-29] - Nearly isoechoic focal nodular hyperplasia (FNH): lbox_55086-Afbeelding1 to lbox_55091-Afbeelding6
+ [F-28] - Focal nodular hyperplasia with a nearly isoechoic mass with spokewheel vascularity: lbox_43451-Afbeelding1 to lbox_43455-Afbeelding5
+ [F-52] - Incidentaly found liver lesion that proved to be a focal nodular hyperplasia: lbox_64776-Afbeelding1, lbox_64777-Afbeelding2, lbox_64778-Afbeelding3, lbox_64779-Afbeelding4 and lbox_64782-Afbeelding7
+ [F-49] - Focal nodular hyperplasia with two lesions with a radial scar and spokewheel vascularization: lbox_41937-Afbeelding1, lbox_41938-Afbeelding2, lbox_41939-Afbeelding3, lbox_41940-Afbeelding4, lbox_41941-Afbeelding5, lbox_41942-Afbeelding6, 
+        |_ Focal nodular hyperplasia with two lesions with a radial scar and spokewheel vascularization: lbox_41945-Afbeelding9, lbox_41946-Afbeelding10
+ [F-42] - Focal nodular hyperplasia: lbox_57210-Afbeelding1, lbox_57211-Afbeelding2, lbox_57212-Afbeelding3, lbox_57214-Afbeelding5
+ [F-54] - FNH in the liver: lbox_57246-Afbeelding1, lbox_57247-Afbeelding2, lbox_57248-Afbeelding3, lbox_57249-Afbeelding4
+ [F-50] - Focal nodular hyperplasia with a well defined slightly hypoechoic mass with typical radial vascularity: lbox_24270, lbox_24271
+ [F-43] - Focal nodular hyperplasia: lbox_53503-Afbeelding1, lbox_53504-Afbeelding2, lbox_53505-Afbeelding3, lbox_53506-Afbeelding4
+
+1.1.2 Hemangiomas
+ [M-62] - Hemangiomas: lbox_59335-Afbeelding1, lbox_59336-Afbeelding2, lbox_59337-Afbeelding3, lbox_59338-Afbeelding4, lbox_59339-Afbeelding5, lbox_59340-Afbeelding6, lbox_59341-Afbeelding7, lbox_59342-Afbeelding8
+ [F-59] - Multiple liver hemangiomas: lbox_61231-Afbeelding1, lbox_61232-Afbeelding2, lbox_61233-Afbeelding3, lbox_61234-Afbeelding4, lbox_61235-Afbeelding5, lbox_61236-Afbeelding6, lbox_61237-Afbeelding7, lbox_61238-Afbeelding8 lbox_61239-
+       |_ Multiple liver hemangiomas and gallstones: Afbeelding9, lbox_61240-Afbeelding10, lbox_61241-Afbeelding11, lbox_61242-Afbeelding12
+ [F-47] - Giant hemangioma with typical globular peripheral enhancement with CEUS: lbox_22227, lbox_22228, lbox_22230
+ [M-58] - Small hemangioma with CEUS: lbox_22568, lbox_22569, lbox_22570
+ [F-74] - Liver hemangiomas: lbox_57932-Afbeelding1, lbox_57933-Afbeelding2, lbox_57934-Afbeelding3, lbox_57935-Afbeelding4, lbox_57936-Afbeelding5, lbox_57937-Afbeelding6, lbox_57938-Afbeelding7, lbox_57939-Afbeelding8, lbox_57940-
+       |_ Liver hemangiomas: Afbeelding9, lbox_57941-Afbeelding10, lbox_57942-Afbeelding11, lbox_57943-Afbeelding12
+ [F-60] - Liver hemangiomas: lbox_55750-Afbeelding1, lbox_55751-Afbeelding2, lbox_55752-Afbeelding3, lbox_55753-Afbeelding4, lbox_55754-Afbeelding5, lbox_55755-Afbeelding6, lbox_55756-Afbeelding7, lbox_55757-Afbeelding8
+ [F-56] Atypical hemangioma with a vascularized hypoechoic mass: lbox_16612, lbox_16614, lbox_16615
+
+1.1.3 Miscellaneous benign liver lesions
+ [F-53] - Mixed mainly cystic liver lesion that remained unchanged over the years. Puncture revealed oily material. Presumably a dermoid cyst: lbox_72217-Afbeelding1, lbox_72218-Afbeelding2, lbox_72219-Afbeelding3, lbox_72220-Afbeelding4, lbox_72221-Afbeelding5, lbox_72222-Afbeelding6, lbox_72223-Afbeelding7, lbox_72224-Afbeelding8, 
+        |_ Mixed mainly cystic liver lesion that remained unchanged over the years. Puncture revealed oily material. Presumably a dermoid cyst: lbox_72225-Afbeelding9, lbox_72226-Afbeelding10, lbox_72228-Afbeelding12, lbox_72229-Afbeelding13, lbox_72230-Afbeelding14 lbox_72231-Afbeelding15, lbox_72232-Afbeelding16  
+ [F-64] - Angiolipoma of the liver: lbox_51398-Afbeelding1, lbox_51399-Afbeelding2, lbox_51400-Afbeelding3, lbox_51401-Afbeelding4, lbox_51402-Afbeelding5, lbox_51403-Afbeelding6, lbox_51404-Afbeelding7, lbox_51405-Afbeelding8 
+ [M-77] - Phlebectasia with porto hepatic shunting: lbox_36503-Afbeelding1, lbox_36504-Afbeelding2, lbox_36505-Afbeelding3, lbox_36506-Afbeelding4, lbox_36507-Afbeelding5, lbox_36508-Afbeelding6 
+ [M-61] - Inmomogeneous liver that biopsy proved to be sarcoidosis: lbox_53831-Afbeelding1, lbox_53832-Afbeelding2, lbox_53833-Afbeelding3, lbox_53834-Afbeelding4, 
+      |_ Sarcoidosis. More difficult to see with a lower frequency transducer: lbox_53835-Afbeelding5, lbox_53836-Afbeelding6 lbox_53837-Afbeelding7, lbox_53838-Afbeelding8
+
+1.1.4 Liver cysts
+ [F-42] - Polycystic liver and kidneys: lbox_60890-Afbeelding1, lbox_60891-Afbeelding2, lbox_60892-Afbeelding3, lbox_60893-Afbeelding4, lbox_60894-Afbeelding5, lbox_60895-Afbeelding6, lbox_60896-Afbeelding7, lbox_60897-Afbeelding8
+ [F-75] - Large liver cyst with intracystic hemorrhage: lbox_18668, lbox_18669, lbox_18670, lbox_18671, lbox_18672, lbox_18673
+ [F-80] - Large liver cyst with intracystic hemorrhage: lbox_20800, lbox_20801, lbox_20802, lbox_20803
+ [M-69] - Hemorrhagic liver cyst at the periphery of the right liver lobe that could be mistaken for an adrenal mass: lbox_25528, lbox_25529
+
+1.1.5 Hydatid cysts
+ [M-39] - Hydatid cyst: lbox_13721, lbox_13722, lbox_13723, lbox_13724
+ [M-54] - 2 Hydatid cysts with a thick irregular wall next to each other in the left liver lobe: lbox_24274, lbox_24275, lbox_24280, lbox_24281
+     |_ The same cysts after treatment. They are smaller and filled with echogenic material mimicking a solid lesion: lbox_24282, lbox_24283
+ [M-40] - Old hydatid cyst with a partly calcified mass: lbox_32098-Afbeelding1, lbox_32099-Afbeelding2, lbox_32100-Afbeelding3, lbox_32101-Afbeelding4, lbox_32102-Afbeelding5, lbox_32103-Afbeelding6
+     |_ The same patient 6 years earlier: lbox_32106-Afbeelding1, lbox_32107-Afbeelding2, lbox_32108-Afbeelding3, lbox_32109-Afbeelding4
+
+1.1.6 Liver abscesses
+ [M-65] - Amebic liver abscess with an irregural pus filled cavity: lbox_25876, lbox_25877, lbox_25880, lbox_25881, lbox_25882, lbox_25883
+ [M-59] - Amebic abscess in the liver: lbox_16124, lbox_16125, lbox_16126
+ [M-24] - Amebic abscess: lbox_18210, lbox_18211, lbox_18212, lbox_18213
+ [M-77] - Multilocular abscess in the right liver lobe: lbox_39054-Afbeelding1, lbox_39055-Afbeelding2, lbox_39056-Afbeelding3, lbox_39057-Afbeelding4, lbox_39060-Afbeelding7
+ [M-64] - Liver abscess filled with pus and air after partial liver resection: lbox_32134-Afbeelding1, lbox_32135-Afbeelding2, lbox_32136-Afbeelding3, lbox_32137-Afbeelding4, lbox_32138-Afbeelding5
+
+1.1.7 Hepatocellular carcinoma
+ [M-75] - Nearly 20 cm large liver mass that repeated biopsy proved to be a hepatocellular carcinoma: lbox_55114-Afbeelding5, lbox_55115-Afbeelding6, lbox_55116-Afbeelding7, lbox_55117-Afbeelding8
+ [M-78] - Large hepatocellular carcinoma with a slightly hyperechoic inhomogeneous mass impressing the gallbladder: lbox_16636, lbox_16637, lbox_16638, lbox_16639, lbox_16640, lbox_16641  
+ [F-75] - Hepatocellular carcinoma: lbox_56739-Afbeelding1, lbox_56740-Afbeelding2, lbox_56741-Afbeelding3, lbox_56742-Afbeelding4
+
+1.1.8 Malignant lymphona
+ [M-81] - Malignant lymphoma: lbox_66989-Afbeelding1, lbox_66991-Afbeelding3, lbox_66992-Afbeelding4
+ [F-46] - Inhomogenous liver that was caused by lymphoma: lbox_67008-Afbeelding1, lbox_67009-Afbeelding2, lbox_67010-Afbeelding3, lbox_67011-Afbeelding4, lbox_67012-Afbeelding5, lbox_67013-Afbeelding6, lbox_67014-Afbeelding7 
+ [M-79] - Hypoechoic liver lesions that biopsy proved to be a B cell lymphoma: lbox_21143, lbox_21144, lbox_21145, lbox_21146
+ [M-58] - Non Hodgkin lymphoma with diffuse small hypoechoic liver lesions and multiple large vascularized hypoechoic splenic lesions and enlarged lymph nodes: lbox_23391, lbox_23392, lbox_26983-23392, lbox_23393, lbox_23394, lbox_23395, lbox_23396, lbox_23397
+
+1.1.9 Metastases
+ [M-72] - Biopsy proven 4 mm hyperechoic liver metastasis of a lung carcinoma in a patient with multiple hemangiomas. CEUS made it easy to differentiate the hemangiomas from the metastasis: lbox_21165, lbox_21167, lbox_21168
+ [F-48] - Large liver metastases: lbox_19905, lbox_19906, lbox_19907, lbox_19908, lbox_19909, lbox_19910
+ [M-82] - Liver metastases: lbox_60907-Afbeelding5, lbox_60908-Afbeelding6, lbox_60909-Afbeelding7, 
+ [M-80] - Liver metastases of a colon carcinoma with central necrosis: lbox_18190, lbox_18191, lbox_18192
+
+1.1.10 Perihepatic tumors
+ [F-93] - Peritoneal metastases with peritoneal lesions around the liver and ascites: lbox_40308-Afbeelding1, lbox_40309-Afbeelding2, lbox_40310-Afbeelding3, lbox_40311-Afbeelding4, lbox_40312-Afbeelding5, lbox_40313-Afbeelding6, lbox_40314-Afbeelding7, lbox_40315-Afbeelding8
+ [M-78] - Peritoneal implants, liver metastases and ascites: lbox_61266-Afbeelding5, lbox_61267-Afbeelding6, lbox_61268-Afbeelding7, lbox_61269-Afbeelding8
+ 
+1.1.11 Fatty liver and focal sparing
+ [F-42] - Inhomogeneous liver caused by fatty liver changes: lbox_47190-Afbeelding1, lbox_47191-Afbeelding2, lbox_47192-Afbeelding3, lbox_47193-Afbeelding4, lbox_47194-Afbeelding5
+ [F-43] - The lesions are harder to see with the lower frequency convex probe: lbox_37811-Afbeelding7, lbox_37812-Afbeelding8, lbox_37813-Afbeelding9, lbox_37814-Afbeelding10
+ [M-64] - Area of focal fatty sparing in a fatty liver: lbox_67424-Afbeelding1, lbox_67425-Afbeelding2, lbox_67426-Afbeelding3, lbox_67427-Afbeelding4, lbox_67428-Afbeelding5
+ [M-51] - Fatty liver with focal fatty sparing of the caudate lobe: lbox_32252-Afbeelding1, lbox_32253-Afbeelding2, lbox_32254-Afbeelding3, lbox_32255-Afbeelding4
+
+1.1.12 Cirrhosis and portal hypertension
+ [F-75] - Liver cirrhosis with an inhomogeneous liver with irregular contour: lbox_67049-Afbeelding5, lbox_67050-Afbeelding6, lbox_67051-Afbeelding7, lbox_67052-Afbeelding8
+ [M-54] - Liver cirrhosis with an irregular liver contour and ascites: lbox_44085-Afbeelding1, lbox_44086-Afbeelding2, lbox_44087-Afbeelding3
+ [F-74] - Liver cirrhosis with an inhomogeneous liver with irregular contour and splenomegaly: lbox_70370-Afbeelding1, lbox_70371-Afbeelding2, lbox_70372-Afbeelding3, lbox_70373-Afbeelding4, lbox_70374-Afbeelding5, lbox_70375-Afbeelding6, lbox_70376-Afbeelding7, lbox_70377-Afbeelding8
+ [M-58] - Liver cirrhosis with ascites and splenomegaly: lbox_56534-Afbeelding1, lbox_56536-Afbeelding3, lbox_56537-Afbeelding4, lbox_56538-Afbeelding5, lbox_56539-Afbeelding6
+ 
+1.1.13 Hepatic and portal veins
+ [F-60] - Thrombus filled hepatic veins in a patient with von meyenburg complexes: lbox_62505-Afbeelding1, lbox_62507-Afbeelding3, lbox_62509-Afbeelding5, lbox_62511-Afbeelding7
+ [F-94] - Thrombus in a hepatic vein: lbox_19911, lbox_19912
+ [M-71] - Air in the hepatic veins: lbox_899-afbeelding1, lbox_899-afbeelding2
+ 
+1.1.14 Liver Trauma
+ [F-16] - Liver rupture with a subcapsular hematoma without free peritoneal blood: lbox_63207-Afbeelding1, lbox_63208-Afbeelding2, lbox_63209-Afbeelding3, lbox_63210-Afbeelding4
+ [M-20] - Post traumatic lesion that is not vascularized. There is no hemoperitoneum. It proved to be an intraparenchymal hematoma: lbox_63184-Afbeelding1, lbox_63187-Afbeelding4, lbox_63188-Afbeelding5, lbox_63189-Afbeelding6
+ [F-18] - Liver rupture with minimal hemoperitoneum: lbox_61804-Afbeelding1, lbox_61805-Afbeelding2, lbox_61806-Afbeelding3, lbox_61807-Afbeelding4, lbox_61808-Afbeelding5
+ [M-11] - Liver rupture in an 11 year old boy: lbox_63793-Afbeelding1, lbox_63794-Afbeelding2, lbox_63795-Afbeelding3, lbox_63796-Afbeelding4
+
+1.1.15 Hepatitis
+ [M-39] - Hepatitis with hypoechoic parenchyma and hyperechoic aspect of the walls of the portal veins (starry sky appearance) and ascites: lbox_22575, lbox_22576, lbox_22577, lbox_22578, 22579
+ [F-37] - Acute necrotizing hepatitis with a hypoechoic liver with irregular contour. There is also a colon interposition (chilaiditi) and ascites that should not be confused with perforation: lbox_39335-Afbeelding1, lbox_39336-Afbeelding2, lbox_39337-Afbeelding3, lbox_39338-Afbeelding4
+ [F-24] - Vascular calcifications in the liver in a patient with biopsy proven piecemeal necrosis in a patient with hepatitis: lbox_69000-Afbeelding1, lbox_69001-Afbeelding2, lbox_69002-Afbeelding3, lbox_69003-Afbeelding4
+
+------------------------------------------------------------------------------------------------------------------------
+
+1.2 GALLBLADDER
+1.2.1 Gallbladder: Gallstones
+ [F-34] - Mobile gallstones only visible in the left decubitus view: lbox_22591, lbox_22592, lbox_22593, lbox_22594
+ [M-55] - Mobile gallstones that could be missed when the patient is only examined in supine position: lbox_41989-Afbeelding1, lbox_41990-Afbeelding2, lbox_41991-Afbeelding3, lbox_41992-Afbeelding4
+ [F-35] - Mobile gallstones: lbox_47213-Afbeelding1, lbox_47214-Afbeelding2, lbox_47215-Afbeelding3, lbox_47216-Afbeelding4
+ [M-56] - Multiple gallstones: lbox_55124-Afbeelding1, lbox_55125-Afbeelding2, lbox_55126-Afbeelding3, lbox_55127-Afbeelding4, lbox_55128-Afbeelding5, lbox_55129-Afbeelding6
+ [F-65] - Gallbladder filled with multiple small gallstones that do not cause acoustic shadowing: lbox_17490, lbox_17491, lbox_17492, lbox_17493
+
+1.2.2 Gallbladder: Thickened bile and sludge and hemobilia
+ [M-60] - Sludge in the gallbladder: lbox_53534-Afbeelding1, lbox_53535-Afbeelding2
+ [M-43] - Sludge filled gallbladder with a gallstone in the neck: lbox_21841, lbox_21842, lbox_21843, lbox_21844
+ [M-39] - Sludge ball mimicking a polypoid tumor mass. Changing position proves the mass to be sludge: lbox_20815, lbox_20816, lbox_20817
+
+1.2.3 Gallbladder: Cholecystitis
+ [F-53] - Cholelithiasis and cholecystitis: lbox_53541-Afbeelding1, lbox_53542-Afbeelding2, lbox_53543-Afbeelding3, lbox_53544-Afbeelding4
+ [F-65] - Cholecystitis with a thickened wall and an immobile stone in the neck: lbox_63296-Afbeelding1, lbox_63297-Afbeelding2, lbox_63298-Afbeelding3, lbox_63299-Afbeelding4
+ [F-40] - Cholelithiasis and cholecystitis with a massively thickened gallbladderwall: lbox_57987-Afbeelding1, lbox_57988-Afbeelding2, lbox_57989-Afbeelding3, lbox_57990-Afbeelding4, lbox_57991-Afbeelding5, lbox_57992-Afbeelding6
+ [F-49] - Cholelithiasis and gallbladder sludge and a cholecystitis: lbox_58532-Afbeelding1, lbox_58533-Afbeelding2, lbox_58534-Afbeelding3, lbox_58535-Afbeelding4, lbox_58537-Afbeelding6, lbox_58538-Afbeelding7
+ [M-72] - Cholelithiasis and cholecystitis with a thickened hypervascularized gallbladderwall: lbox_40706-Afbeelding1, lbox_40707-Afbeelding2, lbox_40708-Afbeelding3, lbox_40709-Afbeelding4, lbox_40711-Afbeelding6, lbox_40712-Afbeelding7
+ [M-60] - Cholecystitis with an irregular wall and beginning wall defects, sludge and a stone in the neck: lbox_46532-Afbeelding1, lbox_46533-Afbeelding2, lbox_46534-Afbeelding3, lbox_46535-Afbeelding4, lbox_46536-Afbeelding5
+
+1.2.4 Gallbladder: Membranous and gangrenous cholecystitis
+ [F-38] - Membranous cholecystitis with a folded sloughed mucosal lining: lbox_25562, lbox_25563, lbox_25564, lbox_25565
+ [F-95] - Membranous gangrenous cholecystitis with membranes (sloughed mucosa) and small gallstones: lbox_17410, lbox_17411, lbox_17412, lbox_17413
+ [F-60] - Membranous cholecystitis with internal septations and a stone in the gallbladder neck: lbox_52002-Afbeelding1, lbox_52003-Afbeelding2, lbox_52004-Afbeelding3, lbox_52005-Afbeelding4
+ [F-87] - Membranous acalculous cholecystitis with thickened wall and detached mucosal lining: lbox_23925, lbox_23926, lbox_23927, lbox_23928, lbox_23929, lbox_23930
+ [M-83] - Acalculous cholecystitis in an old patient with thickened gallbladder wall without stones: lbox_40279-Afbeelding1, lbox_40280-Afbeelding2, lbox_40281-Afbeelding3, lbox_40282-Afbeelding4
+ [M-60] - Acalculous cholecystitis with a sludge filled gallbladder with a thickened vascularized gallbladderwall: lbox_40286-Afbeelding1, lbox_40287-Afbeelding2, lbox_40288-Afbeelding3, lbox_40290-Afbeelding5, lbox_40291-Afbeelding6
+
+1.2.5 Gallbladder: Mirizzi syndrome
+ [F-68] Mirizzi syndrome with a stone in the gallbladder neck obstructing the bile ducts: lbox_26443, lbox_26444, lbox_26445, lbox_26446, lbox_26447, lbox_26449
+ [F-69] Mirizzi syndrome in a patient with liver metastases The jaudice was not caused by the metastases but by the impacted stone in the neck of the gallbladder that obstructs the bile ducts: lbox_32346-Afbeelding1, lbox_32347-Afbeelding2, lbox_32349-Afbeelding4
+ 
+1.2.6 Gallbladder: Emphysematous cholecystitis
+ [F-86] Emphysematous cholecystitis with air in the gallbladder and a small perforation and fluid around the gallbladder: lbox_64009-Afbeelding1, lbox_64010-Afbeelding2, lbox_64011-Afbeelding3, lbox_64012-Afbeelding4, lbox_64013-Afbeelding5, lbox_64014-Afbeelding6, lbox_64015-Afbeelding7, lbox_64016-Afbeelding8
+ [F-60] Emphysematous cholecystitis with air in the gallbladderwall in a patient who also has gallstones: lbox_59457-Afbeelding1, lbox_59458-Afbeelding2. lbox_59459-Afbeelding3, lbox_59460-Afbeelding4, lbox_59461-Afbeelding5, lbox_59462-Afbeelding6, lbox_59463-Afbeelding7, lbox_59464-Afbeelding8
+ [F-79] Emphysematous cholecystitis with a cholecystitis with sludge and stones and air in the gallbladder: lbox_41293-Afbeelding1, lbox_41294-Afbeelding2, lbox_41295-Afbeelding3, lbox_41296-Afbeelding4, lbox_41297-Afbeelding5, lbox_41298-Afbeelding6, lbox_41299-Afbeelding7
+ [F-91] Emphysematous cholecystitis with a cholecystitis with stones and air in the gallbladder: lbox_41306-Afbeelding1, lbox_41307-Afbeelding2, lbox_41308-Afbeelding3, lbox_41309-Afbeelding4, lbox_41310-Afbeelding5, lbox_41311-Afbeelding6
+ [M-88] Emphysematous cholecystitis with air in the gallbladder wall and in the gallbladder lumen: lbox_37354-Afbeelding1, lbox_37355-Afbeelding2, lbox_37356-Afbeelding3, lbox_37357-Afbeelding4, lbox_37361-Afbeelding8, lbox_37362-Afbeelding9
+ [M-65] Air in the gallbladder after an ERCP and papillotomy that should not be mistaken for an emphysematous cholecystitis: lbox_32360-Afbeelding1, lbox_32361-Afbeelding2, lbox_32362-Afbeelding3, lbox_32363-Afbeelding4
+
+1.2.7 Gallbladder: Perforation
+ [F-70] Gallbladder with sludge and a large stone that a few years later has perforated to the digestive tract and has caused a gallstone ileus: lbox_64025-Afbeelding1, lbox_64026-Afbeelding2, lbox_64027-Afbeelding3, lbox_64028-Afbeelding4
+ [M-72] Pericholecystitis with abscess caused by a perforated gallbladder wall in a patient with cholecystitis: lbox_42672-Afbeelding1, lbox_42673-Afbeelding2, lbox_42674-Afbeelding3, lbox_42675-Afbeelding4, lbox_42676-Afbeelding5, lbox_42677-Afbeelding6, lbox_42678-Afbeelding7
+ [M-54] Perforated gallbladder wall in a patient with cholecystitis: lbox_42681-Afbeelding1, lbox_42682-Afbeelding2, lbox_42683-Afbeelding3, lbox_42684-Afbeelding4
+ [F-60] Gallbladder perforation with pericholecystic effusion: lbox_16213, lbox_16214, lbox_16397, lbox_16398, lbox_16399
+
+1.2.8 Gallbladder: Abscess
+ [M-55] Cholecystitis and abscess formation. Air in the bile ducts and hepatic abscesses: lbox_50896-Afbeelding1, lbox_50897-Afbeelding2, lbox_50898-Afbeelding3, lbox_50899-Afbeelding4, lbox_50900-Afbeelding5, lbox_50901-Afbeelding6, lbox_50902-Afbeelding7, lbox_50903-Afbeelding8
+ [F-58] Cholecystitis and pericholecystitis with abscess formation: lbox_50372-Afbeelding1, lbox_50373-Afbeelding2, lbox_50374-Afbeelding3, lbox_50375-Afbeelding4, lbox_50376-Afbeelding5, lbox_50377-Afbeelding6, lbox_50378-Afbeelding7
+ [M-66] Cholecystitis with a gangrenous gallbladder with pericholecystitis and abscess: lbox_32367-Afbeelding1, lbox_32368-Afbeelding2, lbox_32369-Afbeelding3, lbox_32370-Afbeelding4, lbox_32371-Afbeelding5, lbox_32372-Afbeelding6, lbox_32373-Afbeelding7, lbox_32374-Afbeelding8
+ [F-89] Acalculous cholecystitis with perforation and a large abscess: lbox_17024, lbox_17083, lbox_17084, lbox_17085
+
+1.2.9 Gallbladder: Polyps and cholesterol crystals
+ [F-36] Gallbladder polyps: lbox_57273-Afbeelding1, lbox_57274-Afbeelding2, lbox_57275-Afbeelding3, lbox_57276-Afbeelding4, lbox_57277-Afbeelding5, lbox_57278-Afbeelding6, lbox_57279-Afbeelding7, lbox_57280-Afbeelding8
+ [M-46] Gallbladder polyps: lbox_64455-Afbeelding1, lbox_64456-Afbeelding2, lbox_64457-Afbeelding3, lbox_64458-Afbeelding4, lbox_64459-Afbeelding5, lbox_64460-Afbeelding6, lbox_64461-Afbeelding7, lbox_64462-Afbeelding8
+ [M-65] Gallbladder polyps: lbox_57880-Afbeelding1, lbox_57881-Afbeelding2, lbox_57882-Afbeelding3, lbox_57883-Afbeelding4, lbox_57884-Afbeelding5, lbox_57885-Afbeelding6, lbox_57886-Afbeelding7, lbox_57887-Afbeelding8
+ [F-40] Gallbladder polyps: lbox_57945-Afbeelding1, lbox_57946-Afbeelding2, lbox_57947-Afbeelding3, lbox_57948-Afbeelding4, lbox_57949-Afbeelding5, lbox_57950-Afbeelding6, lbox_57951-Afbeelding7, lbox_57952-Afbeelding8
+
+1.2.10 Gallbladder: Adenomyomatosis
+ [F-51] Adenomyomatosis of the gallbladder with a thickened wall. Color doppler shows twinkling artefacts caused by cholesterol crystals in the wall: lbox_20202, lbox_20204, lbox_20206, lbox_20208
+ [F-63] Adenomyomatosis with a thickend gallbladderwall with Rokitanski Aschoff sinuses with intramural calcifications cholesterol crystals and cholelithiasis: lbox_13991, lbox_13992, lbox_13993, lbox_13994
+ [M-50] Cholelithiasis and adenomyomatosis with cholesterol crystals in a thickened gallbladder wall: lbox_17557, lbox_17558, lbox_17559, lbox_17560
+ [F-52] Adenomyomatosis with cholesterol crystals and a cholecystitis with a mobile gallstone and edema of the gallbadderwall: lbox_64073-Afbeelding1, lbox_64074-Afbeelding2, lbox_64075-Afbeelding3, lbox_64076-Afbeelding4
+ [F-53] Adenomyomatosis with irregular gallbladder wall with cholesterol crystals that cause twinkling artefacts: lbox_21197, lbox_21198, lbox_21199
+ [F-60] Gallstones and cholesterol crystals in the wall that cause a twinkle artefact: lbox_60112-Afbeelding1, lbox_60115-Afbeelding4
+ [M-52] Adenomyomatosis with cholesterol crystals in the gallbladderwall and a gallstone. There is some focal sparing around the gallblader: lbox_59386-Afbeelding1, lbox_59387-Afbeelding2, lbox_59388-Afbeelding3, lbox_59389-Afbeelding4, lbox_59390-Afbeelding5, lbox_59391-Afbeelding6, lbox_59392-Afbeelding7, lbox_59393-Afbeelding8
+
+1.2.11 Gallbladder: Carcinoma
+ [F-59] Polypoid gallbladder lesion that proved to be a gallbladder carcinoma: lbox_62968-Afbeelding5, lbox_62969-Afbeelding6, lbox_62972-Afbeelding9, lbox_62973-Afbeelding10, lbox_62974-Afbeelding11, lbox_62975-Afbeelding12
+ [M-75] Gallbladder carcinoma with a mass in the gallbladde: lbox_47240-Afbeelding1, lbox_47241-Afbeelding2, lbox_47242-Afbeelding3, lbox_47243-Afbeelding4
+ [F-85] Gallbladder mass: lbox_66675-Afbeelding6
+ [F-65] Gallbladder carcinoma with a mass around the gallbladder: lbox_56146-Afbeelding1, lbox_56151-Afbeelding6, lbox_56153-Afbeelding8
+
+1.2.12 Gallbladder: Various causes of gallbladder wall thickening
+ [M-18] Gallbladder wall thickening in a patient with a sepsis and hepatosplenomegaly: lbox_24922, lbox_24923, lbox_24924, lbox_24925
+ [M-52] Edematous thickened gallbladder wall in a patient with hepatitis: lbox_32398-Afbeelding1, lbox_32400-Afbeelding3, lbox_32401-Afbeelding4
+ [F-30] Hepatitis with a thickened gallbladder wall: lbox_63113-Afbeelding1, lbox_63114-Afbeelding2, lbox_63115-Afbeelding3, lbox_63116-Afbeelding4
+ [M-44] Hepatitis with a thickened gallbladder wall: lbox_14002, lbox_14003, lbox_14004
+ [M-72] Edematous thickening of the gallbladder wall in a patient with cardiac failure and ascites. There is also some thickened bile and there are gallstones: lbox_21876, lbox_21877, lbox_21878, lbox_21879
+
+1.2.13 Gallbladder: Porcelain gallbladder
+ [F-76] Porcelain gallbladder with thin calcifications in the gallbladder wall: lbox_22611, lbox_22612
+ [F-30] Gallbladder filled with stones. There is a thin gallbladderwall present (positive WES Triad): lbox_17106
+ [F-40] Impacted gallstone in the gallbladder neck, debris filled gallbladder and calcifications in the wall: lbox_40206-Afbeelding1, lbox_40208-Afbeelding3, lbox_40209-Afbeelding4, lbox_40210-Afbeelding5, lbox_40211-Afbeelding6
+ [F-88] Large gallstone that should not be confused with a porcelain gallbladder: lbox_50916-Afbeelding1, lbox_50917-Afbeelding2, lbox_50918-Afbeelding3, lbox_50919-Afbeelding4
+
+1.2.14 Gallbladder: Miscellaneous pathology
+ [F-58] Gallbladder wall hemorrhage: lbox_51449-Afbeelding1, lbox_51451-Afbeelding3, lbox_51452-Afbeelding4, lbox_51454-Afbeelding6, lbox_51456-Afbeelding8
+ [F-32] Multiseptate gallbladder with multiple thin septations in the gallbladder without stones or signs of a cholecystitis: lbox_26452, lbox_26453, lbox_26454, lbox_26455, lbox_26456, lbox_26457
+ [F-84] Septated or double gallbladder with a gallstone in both parts and thickened bile and mural calcifications (porcelain gallbladder) in one part and clear bile in the other part: lbox_26464, lbox_26465, lbox_26466, lbox_26467
+ [F-62] Gallbladder cyst or diverticulum: lbox_57298-Afbeelding1, lbox_57299-Afbeelding2, lbox_57300-Afbeelding3, lbox_57301-Afbeelding4
+ [M-79] Small cyst in the gallbladder wall in patient with gallstones: lbox_32420-Afbeelding1, lbox_32421-Afbeelding2, lbox_32422-Afbeelding3, lbox_32423-Afbeelding4
+
+1.2.15 Bile duct: Sludge and gallstones in the extrahepatic bile ducts
+ [F-85] Sludge in the gallbladder and bile ducts: lbox_25924, lbox_25925, lbox_25926, lbox_25927
+ [F-93] Common bile duct filled with sludge and a large distal stone: lbox_49964-Afbeelding1, lbox_49965-Afbeelding2, lbox_49966-Afbeelding3, lbox_49967-Afbeelding4
+ [F-94] Gallstones and sludge in the gallbladder and stones and sludge balls in the common bile duct: lbox_67587-Afbeelding1, lbox_67588-Afbeelding2, lbox_67589-Afbeelding3
+
+1.2.16 NO FILES ADDED
+
+1.2.17 Bile duct: Tumors
+ [M-75] Klatskin tumor or cholanchiocarcinoma in the liver hilum with dilatated intrahepatic bile ducts: lbox_72471-Afbeelding1, lbox_72472-Afbeelding2
+ [F-51] Klatskin tumor (cholangiocarcinoma) with an irregular mass in the liver hilum and dilatated intrahepatic bile ducts. There is also invasion in the gallbladder: lbox_19934
+
+------------------------------------------------------------------------------------------------------------------------
+
+1.3 PANCREAS:
+
+1.3.1 Pancreatic head carcinoma and ampullary carcinoma
+ [F-54] Pancreatic head carcinoma with dilatated common bile duct but without dilatated pancreatic duct: lbox_62022-Afbeelding1, lbox_62023-Afbeelding2, lbox_62024-Afbeelding3, lbox_62025-Afbeelding4, lbox_62026-Afbeelding5, lbox_62028-Afbeelding7
+ [F-66] Pancreatic head tumor with a mass in the pancreatic head and a dilatated pancreatic duct but without dilatation of the biliary tract: lbox_60000-Afbeelding1, lbox_60003-Afbeelding4
+ [M-50] Pancreatic head carcinoma with a mass in the pancreatic head and dilatated pancreatic duct, common bile duct and intrahepatic bile duct: lbox_15414, lbox_15415, lbox_15416, lbox_15417, lbox_15418, lbox_15419, lbox_15420
+ [M-58] Pancreatic head carcinoma with a pancreatic mass and double duct sign: lbox_44601-Afbeelding1, lbox_44602-Afbeelding2, lbox_44603-Afbeelding3, lbox_44604-Afbeelding4, lbox_44605-Afbeelding5, lbox_44606-Afbeelding6, lbox_44607-Afbeelding7, lbox_44608-Afbeelding8, lbox_44609-Afbeelding9, lbox_44610-Afbeelding10, lbox_44611-Afbeelding11, lbox_44612-Afbeelding12
+ [M-48] Pancreatic head carcinoma with double duct sign and dilatated gallbladder: lbox_35956-Afbeelding1, lbox_35957-Afbeelding2, lbox_35958-Afbeelding3, lbox_35959-Afbeelding4, lbox_35960-Afbeelding5, lbox_35961-Afbeelding6, lbox_35962-Afbeelding7, lbox_35963-Afbeelding8
+
+1.3.2 Malignant pancreatic tumors in corpus and cauda
+ [F-67] Large cell neuroendocrine pancreatic carcinoma with calcifications and liver metastases: lbox_63303-Afbeelding1, lbox_63304-Afbeelding2, lbox_63305-Afbeelding3, lbox_63307-Afbeelding5, lbox_63308-Afbeelding6, lbox_63309-Afbeelding7, lbox_63311-Afbeelding9
+ [M-75] Pancreatic carcinoma with an obstructing mass in the pancreatic duct: lbox_59986-Afbeelding1, lbox_59988-Afbeelding3, lbox_59989-Afbeelding4, lbox_59990-Afbeelding5
+ [M-60] Pancreas body carcinoma: lbox_55413-Afbeelding1, lbox_55414-Afbeelding2, lbox_55415-Afbeelding3, lbox_55417-Afbeelding5, lbox_55418-Afbeelding6, lbox_55419-Afbeelding7, lbox_55420-Afbeelding8
+ [M-56] Pancreatic carcinoma of the pancreatic tail: lbox_49998-Afbeelding1, lbox_49999-Afbeelding2, lbox_50000-Afbeelding3, lbox_50001-Afbeelding4, lbox_50002-Afbeelding5, lbox_50003-Afbeelding6, lbox_50005-Afbeelding8, lbox_50006-Afbeelding9, lbox_50007-Afbeelding10, lbox_50008-Afbeelding11
+ [F-93] Pancreatic tail carcinoma with central necrosis and liver metastases: lbox_38479-Afbeelding1, lbox_38480-Afbeelding2, lbox_38481-Afbeelding3, lbox_38482-Afbeelding4
+ [F-60] Pancreas carcinoma with a solid and partly cystic mass in the tail of the pancreas: lbox_32467-Afbeelding1, lbox_32469-Afbeelding3, lbox_32470-Afbeelding4, lbox_32471-Afbeelding5, lbox_32473-Afbeelding7, lbox_32474-Afbeelding8
+ [F-62] Partly cystic adenocarcinoma in the pancreatic tail and liver metastasis: lbox_23464, lbox_23465, lbox_23466, lbox_23467, lbox_23468, lbox_23469, lbox_23470, lbox_23480
+ [F-74] Carcinoma in the body of the pancreas with a thickened inhomogeneous tail with a dilatated pancreatic duct: lbox_14015, lbox_14016, lbox_14017, lbox_14018
+
+1.3.3 Metastases in the pancreas
+ [F-65] Pancreas metastasis of a breast carcinoma with a hypoechoic mass. The splenic vein is patent: lbox_43129-Afbeelding1, lbox_43130-Afbeelding2, lbox_43131-Afbeelding3, lbox_43132-Afbeelding4, lbox_43133-Afbeelding5, lbox_43135-Afbeelding7, lbox_43136-Afbeelding8
+ [M-23] Melanoma metastases in the pancreas: lbox_46559-Afbeelding6, lbox_46560-Afbeelding7, lbox_46561-Afbeelding8
+ [M-64] Pancreatic metastasis and liver metastases of a lung carcinoma: lbox_20225, lbox_20226, lbox_20227, lbox_20228
+ [F-41] Pancreatic and hepatic metastases in a patient with non small cell lung carcinoma: lbox_25594, lbox_25595, lbox_25596, lbox_25597
+ [M-82] Pancreatic metasisis and liver metastasis: lbox_21892, lbox_21893, lbox_21894, lbox_21896
+ [M-80] Pancreatic metastasis in a patient who also has a large metastasis in the liver of a renal cell carcinoma: lbox_13761, lbox_13762, lbox_13763, lbox_13764
+ [F-72] Hypoechoic pancreatic mass that proved to be a metastasis of a renal cell carcinoma: lbox_24319, lbox_24320, lbox_24321, lbox_24322
+ [F-66] Pancreatic head metastasis of a sarcoma with bile duct and pancreatic duct dilatation: lbox_23957, lbox_23958, lbox_23959, lbox_23960, lbox_23961, lbox_23962, lbox_23963
+
+1.3.4 Benign pancreas tumors in corpus and cauda
+ [M-73] Non functioning islet tumor of the pancreas: lbox_42686-Afbeelding1, lbox_42687-Afbeelding2, lbox_42688-Afbeelding3, lbox_42689-Afbeelding4, lbox_42690-Afbeelding5, lbox_42691-Afbeelding6
+ [F-36] Serous microcystic adenoma of the pancreatic head: lbox_49975-Afbeelding1, lbox_49976-Afbeelding2, lbox_49979-Afbeelding5, lbox_49980-Afbeelding6, lbox_49981-Afbeelding7
+ [F-78] Small microcystic adenoma of the pancreatic body: lbox_49986-Afbeelding1, lbox_49988-Afbeelding3, lbox_49989-Afbeelding4, lbox_49990-Afbeelding5, lbox_49991-Afbeelding6, lbox_49992-Afbeelding7, lbox_49993-Afbeelding8, lbox_49994-Afbeelding9
+ [M-80] Cystic pancreatic lesion that biopsy proved to be benign: lbox_59525-Afbeelding1, lbox_59526-Afbeelding2, lbox_59527-Afbeelding3, lbox_59528-Afbeelding4, lbox_59529-Afbeelding5
+ [F-45] Pitfall: Cystic lesion in the left upper abdomen that appeared to be separate from the pancreas. MRI proved it to be a pancreatic cyst distal in the tail: lbox_14673, lbox_14674, lbox_14675, lbox_14676, lbox_14677
+ [F-41] Pancreatitis with effusion around the pancreatic tail. A control examination shows focal hypoechoic inflammatory lesions that could be mistaken for mass lesions such as metastases. Initial ultrasound examination: lbox_14872, lbox_14873, lbox_14984
+
+1.3.5 Acute pancreatitis
+ [F-45] Pancreatitis with a peripancreatic effusion: lbox_52035-Afbeelding1, lbox_52036-Afbeelding2, lbox_52037-Afbeelding3, lbox_52038-Afbeelding4, lbox_52039-Afbeelding5, lbox_52040-Afbeelding6, lbox_52041-Afbeelding7, lbox_52042-Afbeelding8
+ [M-40] Pancreatitis with fluid anterior of an inhomgeneous pancreas: lbox_61484-Afbeelding1, lbox_61485-Afbeelding2, lbox_61486-Afbeelding3, lbox_61487-Afbeelding4, lbox_61488-Afbeelding5, lbox_61489-Afbeelding6, lbox_61490-Afbeelding7, lbox_61491-Afbeelding8
+ [F-23] Acute pancreatitis and gallstones in the gallbladder and bile duct but without dilatation of the bile duct: lbox_32259-Afbeelding1, lbox_32260-Afbeelding2, lbox_32261-Afbeelding3, lbox_32262-Afbeelding4, lbox_32263-Afbeelding5, lbox_32264-Afbeelding6, lbox_32265-Afbeelding7, lbox_32266-Afbeelding8, lbox_32267-Afbeelding9
+ [F-86] Acute pancreatitis with edema and small effusion around the slightly swollen pancreas: lbox_40317-Afbeelding1, lbox_40318-Afbeelding2, lbox_40319-Afbeelding3, lbox_40320-Afbeelding4, lbox_40321-Afbeelding5, lbox_40322-Afbeelding6, lbox_40323-Afbeelding7, lbox_40324-Afbeelding8
+ [F-62] Acute pancreatitis with edema and small peripancreatic effusion: lbox_35643-Afbeelding1, lbox_35644-Afbeelding2, lbox_35645-Afbeelding3, lbox_35646-Afbeelding4, lbox_35647-Afbeelding5
+ [M-68] Pancreatitis with effusion around the pancreas: lbox_66501-Afbeelding1, lbox_66502-Afbeelding2, lbox_66503-Afbeelding3, lbox_66504-Afbeelding4, lbox_66505-Afbeelding5, lbox_66506-Afbeelding6
+ [M-80] Pancreatitis with inhomogeneous pancreas and peripancreatic edema: lbox_52602-Afbeelding1, lbox_52603-Afbeelding2, lbox_52604-Afbeelding3, lbox_52605-Afbeelding4, lbox_52606-Afbeelding5, lbox_52607-Afbeelding6, lbox_52608-Afbeelding7, lbox_52609-Afbeelding8
+ [M-83] Pancreatitis with a large peripancreatic effusion: lbox_32480-Afbeelding1, lbox_32481-Afbeelding2, lbox_32482-Afbeelding3, lbox_32483-Afbeelding4, lbox_32484-Afbeelding5, lbox_32485-Afbeelding6
+ [M-78] Pancreatitis with an inhomogeneous pancreas and a peripancreatic effusion: lbox_32493-Afbeelding1, lbox_32494-Afbeelding2, lbox_32495-Afbeelding3, lbox_32496-Afbeelding4
+
+1.3.6 Pancreatic pseudocysts
+ [F-76] Large pancreatic pseudocyst at the tail of the pancreas: lbox_38221-Afbeelding1, lbox_38222-Afbeelding2, lbox_38223-Afbeelding3, lbox_38224-Afbeelding4, lbox_38225-Afbeelding5, lbox_38226-Afbeelding6, lbox_38227-Afbeelding7
+ [M-60] Pancreatitis of the pancreatic tail and a pseudocyst: lbox_55133-Afbeelding1, lbox_55134-Afbeelding2, lbox_55135-Afbeelding3, lbox_55136-Afbeelding4, lbox_55137-Afbeelding5, lbox_55138-Afbeelding6, lbox_55139-Afbeelding7, lbox_55140-Afbeelding8, lbox_55141-Afbeelding9, lbox_55142-Afbeelding10, lbox_55143-Afbeelding11, lbox_55144-Afbeelding12
+ [F-65] Pancreatic pseudocyst: lbox_59535-Afbeelding1, lbox_59536-Afbeelding2, lbox_59537-Afbeelding3, lbox_59538-Afbeelding4, lbox_59539-Afbeelding5, lbox_59540-Afbeelding6, lbox_59541-Afbeelding7
+ [M-44] Necrotizing pancreatitis with large pseudocysts: lbox_14028, lbox_14029, lbox_14030, lbox_14031, lbox_14032, lbox_14033, lbox_14034, lbox_14035
+ [M-45] Retroperitoneal cyst that proved to be a pancreatic pseudocyst: lbox_59219-Afbeelding1, lbox_59220-Afbeelding2, lbox_59221-Afbeelding3, lbox_59222-Afbeelding4, lbox_59223-Afbeelding5, lbox_59224-Afbeelding6, lbox_59225-Afbeelding7, lbox_59226-Afbeelding8, lbox_59227-Afbeelding9, lbox_59228-Afbeelding10, lbox_59229-Afbeelding11
+ [F-67] Pancreatic necrosis with infected cyst: lbox_54881-Afbeelding1, lbox_54882-Afbeelding2, lbox_54883-Afbeelding3, lbox_54884-Afbeelding4
+ [F-85] Small remnants of a pancreas pseudocyst in a patient after a pancreatitis: lbox_61221-Afbeelding1, lbox_61222-Afbeelding2, lbox_61223-Afbeelding3, lbox_61224-Afbeelding4, lbox_61225-Afbeelding5
+
+1.3.7 Pancreas calcifications
+ [M-68] Pancreatic calcifications in the pancreatic duct: lbox_57234-Afbeelding1, lbox_57235-Afbeelding2, lbox_57236-Afbeelding3, lbox_57237-Afbeelding4, lbox_57238-Afbeelding5, lbox_57239-Afbeelding6, lbox_57240-Afbeelding7, lbox_57241-Afbeelding8
+ [F-55] Pancreatic duct calculus without significant pancreatic duct dilatation: lbox_19857, lbox_19858, lbox_19859, lbox_19860
+ [F-68] Chronic pancreatitis with a calcification in the pancreatic duct and dilatated bile ducts: lbox_60482-Afbeelding1, lbox_60483-Afbeelding2, lbox_60484-Afbeelding3, lbox_60485-Afbeelding4
+ [M-80] Pancreatic calcifications and dilatated pancreatic duct with calculi: lbox_59157-Afbeelding1, lbox_59158-Afbeelding2, lbox_59159-Afbeelding3, lbox_59160-Afbeelding4, lbox_59161-Afbeelding5, lbox_59162-Afbeelding6, lbox_59163-Afbeelding7, lbox_59164-Afbeelding8
+ [F-59] Calcific pancreatitis with diffuse calcifications and a calcification in the pancreatic duct and a pancreatic pseudocyst: lbox_17995, lbox_17996, lbox_17997, lbox_17998
+ [M-65] Chronic pancreatitis with calcifications and widened pancreatic duct: lbox_62036-Afbeelding1, lbox_62037-Afbeelding2, lbox_62038-Afbeelding3, lbox_62039-Afbeelding4
+ [M-24] Chronic pancreatitis of the pancreatic head with calcifications: lbox_57573-Afbeelding1, lbox_57574-Afbeelding2, lbox_57576-Afbeelding4, lbox_57577-Afbeelding5, lbox_57579-Afbeelding7
+ [M-60] Chronic pancreatitis with a wide pancreatic duct and calcifications: lbox_63562-Afbeelding1, lbox_63563-Afbeelding2, lbox_63564-Afbeelding3, lbox_63565-Afbeelding4, lbox_63566-Afbeelding5, lbox_63567-Afbeelding6, lbox_63568-Afbeelding7
+
+1.3.8 Pancreas trauma and miscellaneous
+ [F-53] Physiological hypoechogenicity of the uncinale process of the pancreas: lbox_19876, lbox_19877, lbox_19878, lbox_19879
+ [M-80] Normal non fatty changes in the uncinate process of the pancreas: lbox_56510-Afbeelding1, lbox_56511-Afbeelding2, lbox_56512-Afbeelding3, lbox_56513-Afbeelding4
+ [M-53] Non fatty changes in the uncinate process of the pancreas: lbox_50399-Afbeelding1, lbox_50400-Afbeelding2, lbox_50401-Afbeelding3, lbox_50402-Afbeelding4
+
+------------------------------------------------------------------------------------------------------------------------
+
+1.4 SPLEEN:
+
+1.4.1 Cysts and abscesses
+ [F-48] Simple splenic cyst: lbox_21213, lbox_21214, lbox_21215, lbox_21216
+ [F-48] Lobulated septated splenic cyst: lbox_40147-Afbeelding1, lbox_40148-Afbeelding2, lbox_40149-Afbeelding3, lbox_40150-Afbeelding4, lbox_40151-Afbeelding5, lbox_40152-Afbeelding6
+ [F-34] Splenic cyst with calcifications in the wall: lbox_50926-Afbeelding1, lbox_50927-Afbeelding2, lbox_50928-Afbeelding3, lbox_50930-Afbeelding5, lbox_50931-Afbeelding6, lbox_50932-Afbeelding7, lbox_50933-Afbeelding8, lbox_50934-Afbeelding9, lbox_50935-Afbeelding10 
+ [F-71] Calcified splenic cyst: lbox_21505, lbox_21506, lbox_21507, lbox_21508
+ [F-60] Calcified splenic cyst 2012: lbox_45888-Afbeelding1, lbox_45889-Afbeelding2, lbox_45890-Afbeelding3, lbox_45891-Afbeelding4, lbox_45892-Afbeelding5, lbox_45893-Afbeelding6, lbox_45894-Afbeelding7, lbox_45895-Afbeelding8
+ [M-66] Calcified splenic cyst and splenic infarct in the lowerpole of the spleen: lbox_24356, lbox_24357, lbox_24358, lbox_24359, lbox_24360, lbox_24361, lbox_24362, lbox_24363
+ [F-49] Pitfall patient with adult polycystic disease with an enlarged left liver lobe with cysts cranial of the spleen that can be mistaken for splenic cysts: lbox_18709, lbox_18710, lbox_18711, lbox_18712, lbox_18713, lbox_18714, lbox_18715, lbox_18716, lbox_18717, lbox_18718
+ [F-87] Perisplenic abscess. A percutaneous drainage procedure was performed and pus was aspirated: lbox_21509, lbox_21510
+ [F-41] Pancreatic tail pseudocyst that could be mistaken for an abscess in the splenic hilum: lbox_21521, lbox_21522, lbox_21523, lbox_21524
+
+1.4.2 Benign mass lesion of the spleen
+ [M-55] Hemangioma in the spleen: lbox_59909-Afbeelding1, lbox_59910-Afbeelding2, lbox_59911-Afbeelding3, lbox_59914-Afbeelding6, lbox_59915-Afbeelding7
+ [M-76] Splenic hemangioma with a hyperechoic splenic mass lesion: lbox_58348-Afbeelding1, lbox_58349-Afbeelding2, lbox_58350-Afbeelding3, lbox_58351-Afbeelding4
+ [M-69] Splenic hemangioma with a hyperechoic mass: lbox_32502-Afbeelding1, lbox_32503-Afbeelding2, lbox_32504-Afbeelding3, lbox_32505-Afbeelding4
+ [F-70] Splenic hemangioma with a small hyperechoic lesion: lbox_21217, lbox_21218, lbox_21219
+ [M-58] Sarcoidosis of the spleen with multiple ill defined hypoechoic lesions: lbox_13775, lbox_13776, lbox_13777, lbox_13778
+ [M-40] Enlarged inhomogeneous spleen that after splenectomy proved to be sarcoidosis: lbox_56197-Afbeelding1, lbox_56198-Afbeelding2, lbox_56199-Afbeelding3, lbox_56200-Afbeelding4, lbox_56201-Afbeelding5, lbox_56202-Afbeelding6, lbox_56203-Afbeelding7, lbox_56204-Afbeelding8, lbox_56205-Afbeelding9, lbox_56206-Afbeelding10, lbox_56207-Afbeelding11
+ [M-51] Hypoechoic lesions in the spleen in a patient with sarcoidosis: lbox_20854, lbox_20855, lbox_20856, lbox_20857
+ [F-78] Amyloidosis with inhomogeneous spleen (and peritoneal fluid and abnormal kidneys): lbox_52050-Afbeelding1, lbox_52051-Afbeelding2, lbox_52052-Afbeelding3, lbox_52053-Afbeelding4, lbox_52054-Afbeelding5, lbox_52055-Afbeelding6, lbox_52056-Afbeelding7, lbox_52057-Afbeelding8, lbox_52058-Afbeelding9, lbox_52059-Afbeelding10, lbox_52060-Afbeelding11, lbox_52061-Afbeelding12
+
+1.4.3 Splenic infarcts
+ [M-30] Splenic infarct with a wedge shaped non vascularized spenic lesion: lbox_50019-Afbeelding1, lbox_50020-Afbeelding2, lbox_50023-Afbeelding5, lbox_50025-Afbeelding7, lbox_50026-Afbeelding8, lbox_50027-Afbeelding9, lbox_50028-Afbeelding10, lbox_50029-Afbeelding11, lbox_50030-Afbeelding12
+ [M-74] Splenomegaly with a small peripheral splenic infarct: lbox_55741-Afbeelding1, lbox_55743-Afbeelding3, lbox_55744-Afbeelding4, lbox_55745-Afbeelding5, lbox_55746-Afbeelding6, lbox_55747-Afbeelding7, lbox_55748-Afbeelding8
+ [M-18] Splenomegaly in a patient with mononucleosis with wedge shaped peripheral splenic infarcts: lbox_20861, lbox_20862, lbox_20863, lbox_20864, lbox_20865, lbox_20866
+ [F-60] Splenic infarct in the lowerpole of the spleen with hypoechoic areas and a splenunculus (accessory spleen): lbox_17131, lbox_17132, lbox_17134, lbox_17135, lbox_17136, lbox_17137, lbox_17138
+
+1.4.4 Miscellaneous benign lesions of the spleen
+ [F-73] Splenic calcifications: lbox_43488-Afbeelding1, lbox_43489-Afbeelding2, lbox_43490-Afbeelding3, lbox_43491-Afbeelding4, lbox_43492-Afbeelding5, lbox_43493-Afbeelding6, lbox_43494-Afbeelding7, lbox_43495-Afbeelding8
+ [M-72] Splenic calcifications with hyperechoic structures causing acoustic shadowing: lbox_22650, lbox_22651, lbox_22652, lbox_22653
+ [F-79] Splenic calcification with a hyperechoic structure causing acoustic shadowing: lbox_17531, lbox_17532, lbox_17533, lbox_17534
+ [F-37] Splenic aneurysm. It should not be confused with a cyst: lbox_51510-Afbeelding5, lbox_51511-Afbeelding6, lbox_51512-Afbeelding7, lbox_51513-Afbeelding8
+
+1.4.5 Malignant lesions of the spleen
+ [F-60] Splenic metastasis with cystic spaces in a patient treated for ovarian varcinoma: lbox_42004-Afbeelding1, lbox_42005-Afbeelding2, lbox_42006-Afbeelding3, lbox_42007-Afbeelding4, lbox_42008-Afbeelding5, lbox_42009-Afbeelding6
+ [F-78] Partly cystic splenic metastases of an ovarian carcinoma: lbox_46570-Afbeelding1, lbox_46571-Afbeelding2, lbox_46572-Afbeelding3, lbox_46573-Afbeelding4, lbox_46574-Afbeelding5, lbox_46575-Afbeelding6, lbox_46576-Afbeelding7,  lbox_46577-Afbeelding8
+ [M-74] Splenic metastases both hypoechoic and hyperechoic after a hepatocellular carcinoma: lbox_32508-Afbeelding1, lbox_32509-Afbeelding2, lbox_32510-Afbeelding3, lbox_32511-Afbeelding4, lbox_32512-Afbeelding5, lbox_32513-Afbeelding6
+ [M-56] Splenic and liver metastases with central necrosis after a renal cell carcinoma: lbox_32523-Afbeelding1, lbox_32524-Afbeelding2, lbox_32525-Afbeelding3, lbox_32526-Afbeelding4
+ [M-75] Hypoechoic splenic metastases of a large bronchus carcinoma: lbox_21897, lbox_21899, lbox_21900, lbox_21901, lbox_21902, lbox_21903, lbox_21904
+ [F-53] Hyperechoic liver, splenic, peritoneal and abdominal wall metastases of an ovarian carcinoma: lbox_23969, lbox_23970, lbox_23971, lbox_23972, lbox_23973, lbox_23974, lbox_23975, lbox_23976
+ [M-65] Chronic lymphatic leukemia with an enlarged inhomogeneous hypervascularized spleen: lbox_32542-Afbeelding1, lbox_32543-Afbeelding2, lbox_32550-Afbeelding9, lbox_32552-Afbeelding11, lbox_32553-Afbeelding12
+ [M-66] Chronic lymphatic leukemia with an enlarged inhomogeneous spleen with a vascularized hypoechoic mass
+(Mass lesions in CLL are uncommon): lbox_32555-Afbeelding1, lbox_32556-Afbeelding2, lbox_32559-Afbeelding5, lbox_32560-Afbeelding6, lbox_32561-Afbeelding7, lbox_32562-Afbeelding8
+ [F-42] B cell lymphoma with splenic lesions and enlarged retroperitoneal lymphe nodes: lbox_21529, lbox_21530, lbox_21531, lbox_21532, lbox_21533, lbox_21534
+ [M-84] Malignant lymphoma with a vascularized hypoechoic splenic lesion: lbox_22255, lbox_22256, lbox_22257, lbox_22258
+ [M-74] Lymphoma of the spleen with hypoechoic mass lesions: lbox_50937-Afbeelding1, lbox_50939-Afbeelding3. lbox_50940-Afbeelding4, lbox_50941-Afbeelding5, lbox_50942-Afbeelding6, lbox_50943-Afbeelding7, lbox_50944-Afbeelding8, lbox_50945-Afbeelding9, lbox_50946-Afbeelding10, lbox_50947-Afbeelding11, lbox_50948-Afbeelding12
+ [F-78] Non Hodgkin's disease with multiple hypoechoic splenic lesions: lbox_32567-Afbeelding1, lbox_32568-Afbeelding2, lbox_32569-Afbeelding3, lbox_32570-Afbeelding4, lbox_32571-Afbeelding5, lbox_32572-Afbeelding6
+
+ 1.4.6 Accessory spleens and other variants
+ [F-42] Splenules: lbox_51484-Afbeelding1, lbox_51485-Afbeelding2, lbox_51488-Afbeelding5, lbox_51489-Afbeelding6, lbox_51490-Afbeelding7, lbox_51491-Afbeelding8
+ [M-70] Splenules in a patient who had a splenectomy years before after a car accident: lbox_58636-Afbeelding1, lbox_58637-Afbeelding2, lbox_58638-Afbeelding3, lbox_58639-Afbeelding4, lbox_58640-Afbeelding5, lbox_58641-Afbeelding6, lbox_58642-Afbeelding7, lbox_58643-Afbeelding8, lbox_58644-Afbeelding9, lbox_58646-Afbeelding11, lbox_58647-Afbeelding12
+ [F-64] Long fatty left liver lobe extending superior anterior of the spleen: lbox_32583-Afbeelding1, lbox_32584-Afbeelding2, lbox_32585-Afbeelding3, lbox_32586-Afbeelding4
+ [F-40] Fatty liver cranial to the spleen: lbox_58449-Afbeelding1, lbox_58450-Afbeelding2, lbox_58451-Afbeelding3, lbox_58452-Afbeelding4
+ [F-22] Liver cranial to the spleen: lbox_62338-Afbeelding1, lbox_62339-Afbeelding2, lbox_62340-Afbeelding3, lbox_62341-Afbeelding4
+ [F-42] Isoechoic left liver lobe anterior cranial of the spleen mimicking a septated spleen: lbox_14816, lbox_14817, lbox_14818, lbox_14819
+ [F-36] Fatty (hyperechoic) liver cranial to the normal (hypoechoic) spleen: lbox_52074-Afbeelding1, lbox_52075-Afbeelding2, lbox_52076-Afbeelding3, lbox_52077-Afbeelding4
+
+1.4.7 Trauma of the spleen
+ [F-13] Splenic rupture possibly in a pre existing splenic cyst. The left liver lobe extends cranial of the spleen and should not be confused with a perisplenic hematoma: lbox_50953-Afbeelding1, lbox_50954-Afbeelding2, lbox_50955-Afbeelding3, lbox_50956-Afbeelding4, lbox_50957-Afbeelding5, lbox_50958-Afbeelding6, lbox_50959-Afbeelding7, lbox_50960-Afbeelding8, lbox_50961-Afbeelding9, lbox_50962-Afbeelding10
+ [M-40] Difficult to see splenic rupture 19 feb: lbox_57547-Afbeelding1, lbox_57548-Afbeelding2, lbox_57549-Afbeelding3, lbox_57550-Afbeelding4, lbox_57551-Afbeelding5, lbox_57552-Afbeelding6, lbox_57554-Afbeelding8, lbox_57555-Afbeelding9, lbox_57557-Afbeelding11
+[M-15] Fresh splenic rupture: lbox_67071-Afbeelding1, lbox_67072-Afbeelding2, lbox_67074-Afbeelding4
+ [M-14] A few days old splenic rupture in a 14 year old boy: lbox_60693-Afbeelding1, lbox_60694-Afbeelding2, lbox_60695-Afbeelding3, lbox_60697-Afbeelding5, lbox_60698-Afbeelding6, lbox_60699-Afbeelding7, lbox_60700-Afbeelding8
+ [M-11] Splenic rupture with an inhomogeneous spleen and a small amount of blood around the spleen: lbox_50412-Afbeelding1, lbox_50413-Afbeelding2, lbox_50414-Afbeelding3, lbox_50415-Afbeelding4, lbox_50416-Afbeelding5, lbox_50417-Afbeelding6
+ [M-61] lbox_51523-Afbeelding4
+ [M-8] Splenic rupture with an inhomogeneous spleen and a perisplenic hematoma Hyperechoic in the acute phase: lbox_34503-Afbeelding1, lbox_34504-Afbeelding2, lbox_34505-Afbeelding3, lbox_34506-Afbeelding4
+ [F-73] Small splenic rupture with a nonvascularized hematoma. No hemoperitoneum was found: lbox_45467-Afbeelding1, lbox_45468-Afbeelding2, lbox_45470-Afbeelding4, lbox_45471-Afbeelding5, lbox_45472-Afbeelding6, lbox_45473-Afbeelding7
+ [F-42] 1 week old splenic rupture: lbox_48563-Afbeelding1, lbox_48564-Afbeelding2, lbox_48565-Afbeelding3, lbox_48566-Afbeelding4
+ [M-20] Splenic rupture in the acute phase with a hyperechoic hematoma in the lowerpole of the spleen: lbox_34528-Afbeelding1, lbox_34529-Afbeelding2, lbox_34530-Afbeelding3, lbox_34531-Afbeelding4
+ [M-10] Splenic rupture and hemoperitoneum: lbox_23983, lbox_23984, lbox_23985, lbox_23986, lbox_23987, lbox_23988
+ [F-70] Splenic rupture with giant perisplenic hematoma and small hemoperitoneum: lbox_35710-Afbeelding1
+
+------------------------------------------------------------------------------------------------------------------------
+
+1.5 APPENDIX:
+
+1.5.1 Normal Appendix
+ [F-25] Normal appendix: lbox_46580-Afbeelding1, lbox_46581-Afbeelding2, lbox_46582-Afbeelding3, lbox_46583-Afbeelding4
+ [M-15] Normal appendix: lbox_53156-Afbeelding1, lbox_53157-Afbeelding2, lbox_53158-Afbeelding3, lbox_53159-Afbeelding4, lbox_53160-Afbeelding5, lbox_53161-Afbeelding6, lbox_53162-Afbeelding7, lbox_53163-Afbeelding8
+ [F-33] Normal 4,8 mm thick appendix between the ileum and iliac vessels: lbox_20528, lbox_20529, lbox_20530, lbox_20531
+ [M-7] Normal appendix filled with air: lbox_51537-Afbeelding1,  lbox_51538-Afbeelding2, lbox_51539-Afbeelding3, lbox_51540-Afbeelding4
+ [F-68] Normal 2,8 mm. thick appendix: lbox_21910, lbox_21911, lbox_21912, lbox_21913
+ [M-13] 8mm thick but not inflamed feces filled appendix. The wall is completely normal: lbox_46585-Afbeelding1, lbox_46586-Afbeelding2, lbox_46587-Afbeelding3, lbox_46588-Afbeelding4
+
+1.5.2 Uncomplicated appendicitis
+ [M-15] Appendicitis: lbox_54870-Afbeelding1, lbox_54871-Afbeelding2, lbox_54872-Afbeelding3, lbox_54873-Afbeelding4, lbox_54874-Afbeelding5, lbox_54875-Afbeelding6, lbox_54876-Afbeelding7
+ [F-28] Appendicitis with small effusion: lbox_53165-Afbeelding1, lbox_53166-Afbeelding2, lbox_53167-Afbeelding3, lbox_53168-Afbeelding4, lbox_53169-Afbeelding5, lbox_53170-Afbeelding6, lbox_53171-Afbeelding7, lbox_53172-Afbeelding8
+ [F-16] Appendicitis confined to the tip: lbox_69007-Afbeelding1, lbox_69008-Afbeelding2, lbox_69009-Afbeelding3, lbox_69010-Afbeelding4, lbox_69011-Afbeelding5, lbox_69012-Afbeelding6
+ [F-22] Appendicitis with a thick pus filled appendix, inflamed mesenteric fat and peritoneal effusion: lbox_58875-Afbeelding1, lbox_58877-Afbeelding3, lbox_58879-Afbeelding5, lbox_58881-Afbeelding7, lbox_58883-Afbeelding9, lbox_58884-Afbeelding10
+ [M-35] Appendicitis with a long inflamed appendix and mesoappendix: lbox_49132-Afbeelding1, lbox_49133-Afbeelding2, lbox_49134-Afbeelding3, lbox_49135-Afbeelding4, lbox_49136-Afbeelding5, lbox_49137-Afbeelding6
+ [F-17] Appendicitis of the appendix tip with a normal proximal part and a thickened tip: lbox_52658-Afbeelding1, lbox_52659-Afbeelding2, lbox_52660-Afbeelding3, lbox_52661-Afbeelding4, lbox_52662-Afbeelding5, lbox_52663-Afbeelding6
+ [M-20] Appendicitis of the distal part of a long appendix. The proximal part is normal: lbox_49483-Afbeelding1, lbox_49484-Afbeelding2, lbox_49485-Afbeelding3, lbox_49486-Afbeelding4, lbox_49487-Afbeelding5, lbox_49488-Afbeelding6, lbox_49489-Afbeelding7, lbox_49490-Afbeelding8
+ [M-17] Focal appendicitis with a normal proximal appendix and a thickened pus filled distal end: lbox_36270-Afbeelding1, lbox_36271-Afbeelding2, lbox_36272-Afbeelding3, lbox_36273-Afbeelding4, lbox_36274-Afbeelding5, lbox_36275-Afbeelding6
+ [M-50] Appendicitis in an obese patient: lbox_48602-Afbeelding1, lbox_48603-Afbeelding2, lbox_48604-Afbeelding3, lbox_48605-Afbeelding4 
+ [M-41] Appendicitis with inflamed mesenteric fat in an obese patient: lbox_48607-Afbeelding1, lbox_48608-Afbeelding2, lbox_48609-Afbeelding3
+ [F-16] Acute appendicitis with a thickened appendix with a hypervascularized wall and enlarged mesenteric lymphe nodes: lbox_18649, lbox_18651, lbox_18652
+ [M-71] Acute appendicitis with a thickened non compressible hypervascularized appendix with inflamed hyperechoic fat and thickened ileum: lbox_16432, lbox_16433, lbox_16434, lbox_16437
+ [M-15] Appendicitis with a thickened hypervascularized appendix with fecolith: lbox_15008, lbox_15009, lbox_15007, lbox_15006
+ [M-15] Appendicitis with a pus filled appendix and a large fecolith at the base: lbox_32588-Afbeelding1, lbox_32590-Afbeelding3
+ [M-18] Appendicitis with a pus filled appendix and a large fecolith at the base: lbox_32593-Afbeelding1, lbox_32594-Afbeelding2, lbox_32595-Afbeelding3, lbox_32596-Afbeelding4 
+ [M-17] Appendicitis. At operation a phlegmonous inflamed feces filled appendix was found: lbox_32600-Afbeelding1, lbox_32601-Afbeelding2, lbox_32602-Afbeelding3, lbox_32603-Afbeelding4
+ [M-42] Appendicitis with a thick non compressible pus and feces filled appendix with only few inflammatory changes: lbox_34547-Afbeelding1, lbox_34548-Afbeelding2, lbox_34549-Afbeelding3, lbox_34550-Afbeelding4, lbox_34551-Afbeelding5, lbox_34552-Afbeelding6
+ [M-12] Phlegmonous appendicitis with a thickened pus and air filled retrocecal appendix and a fecolith at the base: lbox_20538, lbox_20539, lbox_20540, lbox_20541, lbox_20542
+ [F-24] Appendicitis with air in the lumen: lbox_64360-Afbeelding1, lbox_64361-Afbeelding2, lbox_64362-Afbeelding3, lbox_64363-Afbeelding4, lbox_64364-Afbeelding5, lbox_64365-Afbeelding6, lbox_64366-Afbeelding7, lbox_64367-Afbeelding8
+ [F-8] Appendicitis with a 2,2 cm large appendicolith / fecolith: lbox_18004, lbox_18006, lbox_18008, lbox_18009
+ [F-46] Appendicitis. Because of the air in the lumen the appendix is more difficult to find in the longitudinal plane: lbox_25952, lbox_25953, lbox_25954, lbox_25955, lbox_25956, lbox_25957
+ [M-36] Appendicitis with a pus filled appendix and air in the appendiceal wall: lbox_61046-Afbeelding1, lbox_61047-Afbeelding2, lbox_61048-Afbeelding3, lbox_61049-Afbeelding4, lbox_61050-Afbeelding5, lbox_61052-Afbeelding7
+ [F-32] Appendicitis with air in the lumen: lbox_53930-Afbeelding1, lbox_53931-Afbeelding2, lbox_53932-Afbeelding3, lbox_53933-Afbeelding4, lbox_53934-Afbeelding5, lbox_53935-Afbeelding6
+ [F-24] Appendicitis and a thickened ileocecal wall: lbox_14027, lbox_14052, lbox_14053, lbox_14054
+ [F-12] Appendicitis with a thickened appendix in the right upper abdomen below the right liver lobe: lbox_18720, lbox_18721, lbox_18722, lbox_18724, lbox_18725
+ [F-11] Inflamed appendix with its tip at the lower end of the liver: lbox_60747-Afbeelding1, lbox_60748-Afbeelding2, lbox_60749-Afbeelding3
+ [F-29] Appendicitis with a long appendix with its tip at the right liver lobe: lbox_62419-Afbeelding1, lbox_62420-Afbeelding2, lbox_62421-Afbeelding3, lbox_62422-Afbeelding4, lbox_62423-Afbeelding5, lbox_62424-Afbeelding6, lbox_62426-Afbeelding8, lbox_62427-Afbeelding9, lbox_62428-Afbeelding10
+ [M-12] Enlarged mesenteric lymph nodes in a patient with an appendicitis with a thickened hypervascularized long appendix and a fecolith at the base: lbox_21914, lbox_21915
+
+1.5.3 Complicated appendicitis
+ [M-40] Appendicitis with a 1,5 cm thick appendix. At operation the appendix could not be removed because of severe surrounding inflammatory changes:lbox_22267, lbox_22269, lbox_22271, lbox_22273
+ [F-60] Appendicitis with an ileitis, infiltrate and enlarged mesenteric lymph nodes: lbox_71094-Afbeelding1, lbox_71095-Afbeelding2, lbox_71098-Afbeelding5, lbox_71099-Afbeelding6, lbox_71100-Afbeelding7, lbox_71101-Afbeelding8, lbox_71104-Afbeelding11
+ [F-20] Perforated appendicitis with a large defect in the wall of the appendix: lbox_40363-Afbeelding1, lbox_40364-Afbeelding2, lbox_40365-Afbeelding3, lbox_40366-Afbeelding4, lbox_40367-Afbeelding5, lbox_40368-Afbeelding6
+ [M-47] Perforated appendicitis with inflamed mesenteric fat: lbox_52667-Afbeelding1, lbox_52668-Afbeelding2, lbox_52669-Afbeelding3, lbox_52670-Afbeelding4, lbox_52671-Afbeelding5
+ [M-48] Perforated appendicitis with air outside the appendix: lbox_58203-Afbeelding1, lbox_58205-Afbeelding3, lbox_58206-Afbeelding4, lbox_58207-Afbeelding5, lbox_58208-Afbeelding6
+ [F-6] Perforated appendicitis with pus and air in the peritoneal cavity: lbox_41389-Afbeelding1, lbox_41390-Afbeelding2, lbox_41391-Afbeelding3, lbox_41392-Afbeelding4
+ [M-49] Appendicitis with a perforated appendix and effusion next to the appendix: lbox_48612-Afbeelding1, lbox_48616-Afbeelding5, lbox_48617-Afbeelding6, lbox_48618-Afbeelding7, lbox_48619-Afbeelding8, lbox_48620-Afbeelding9,lbox_48621-Afbeelding10
+ [M-15] Perforated appendicitis with a defect in the appendix wall and effusion: lbox_41398-Afbeelding1, lbox_41399-Afbeelding2, lbox_41400-Afbeelding3, lbox_41401-Afbeelding4
+ [M-8] Acute appendicitis with a perforated appendix with air bubbles in the appendix wall and in the peritoneal cavity: lbox_38041-Afbeelding1, lbox_38042-Afbeelding2, lbox_38045-Afbeelding5, lbox_38046-Afbeelding6
+ [M-60] Appendicitis with perforation at the tip and mucosal swelling at the base of the appendix mimicking a small intussusception. (At operation a swollen base of the appendix but no intussusception was found.): lbox_25602, lbox_25603, lbox_25604, lbox_25605, lbox_25606
+ [M-35] Perforated appendix with a fluid filled defect in the posterior part of the appendix: lbox_35721-Afbeelding1, lbox_35722-Afbeelding2, lbox_35723-Afbeelding3, lbox_35724-Afbeelding4, lbox_35725-Afbeelding5, lbox_35726-Afbeelding6, lbox_35727-Afbeelding7
+ [M-47] Perforated inflamed appendix and cecitis: lbox_64161-Afbeelding1, lbox_64162-Afbeelding2, lbox_64163-Afbeelding3, lbox_64164-Afbeelding4, lbox_64166-Afbeelding6, lbox_64167-Afbeelding7
+ [F-25] Perforated appendix with its tip at the right liver lobe: lbox_62395-Afbeelding1, lbox_62396-Afbeelding2, lbox_62397-Afbeelding3, lbox_62398-Afbeelding4
+ [F-3] Perforated acute appendicitis with infiltration of the abdominal wall: lbox_24963, lbox_24964, lbox_24965, lbox_24966, lbox_24967, lbox_24969
+ [F-8] Perforated appendicitis with pus in the peritoneal cavity and ileus with dilatated bowel loops: lbox_34572-Afbeelding1, lbox_34573-Afbeelding2, lbox_34574-Afbeelding3, lbox_34575-Afbeelding4, lbox_34578-Afbeelding5, lbox_34579-Afbeelding6
+ [M-50] Pitfall: Thick (7mm) but normal appendix with effusion not caused by a perforated appendix but a pancreatitis: lbox_41413-Afbeelding1, lbox_41415-Afbeelding3
+ [M-44] Patient with pain in the right lower abdomen that could be mistaken for an ileocecitis: lbox_45911-Afbeelding1, lbox_45912-Afbeelding2, lbox_45913-Afbeelding3, lbox_45914-Afbeelding4, lbox_45919-Afbeelding9, lbox_45920-Afbeelding10
+ [M-35] Cecal wall thickening in a patient with appendicitis: lbox_69143-Afbeelding1, lbox_69144-Afbeelding2, lbox_69145-Afbeelding3, lbox_69146-Afbeelding4, lbox_69147-Afbeelding5, lbox_69148-Afbeelding6, lbox_69149-Afbeelding7
+
+1.5.4 Unusual causes of appendicitis and abnormalities mimicking an acute appendicitis
+ [M-45] Thickened appendix that proved to be a Crohn's disease of the appendix and not an acute appendicitis: lbox_71686-Afbeelding1, lbox_71687-Afbeelding2, lbox_71688-Afbeelding3, lbox_71689-Afbeelding4
+ [M-34] Thickened appendix in a patient with Crohn's disease: lbox_22656, lbox_22657, lbox_22658, lbox_22660, lbox_22661
+ [F-21] Thickened appendix secundary to Crohn's disease: lbox_37816-Afbeelding1, lbox_37817-Afbeelding2, lbox_37819-Afbeelding4, lbox_37820-Afbeelding5, lbox_37821-Afbeelding6, lbox_37822-Afbeelding7, lbox_37823-Afbeelding8, lbox_37826-Afbeelding11, lbox_37827-Afbeelding12
+ [M-18] Thickened base of the appendix in a patient with Crohn's disease. The thickening is reactive and does not indicate an appendicitis: lbox_25622, lbox_25623, lbox_25624, lbox_25625, lbox_25626, lbox_25627
+ [M-60] Thickened appendix in a patient with cecal carcinoma: lbox_18728, lbox_18729, lbox_18732, lbox_18733, lbox_18734, lbox_18735
+ [F-56] Appendicitis caused by an obstructing cecum tumor: lbox_50432-Afbeelding1, lbox_50433-Afbeelding2, lbox_50434-Afbeelding3
+
+1.5.5 Mucocele or cystadenoma of the appendix
+ [M-33] Mucocele of the appendix with a thickened mucus filled appendix in a patient without any signs of inflammatory changes: lbox_49140-Afbeelding1, lbox_49142-Afbeelding3, lbox_49143-Afbeelding4, lbox_49144-Afbeelding5, lbox_49145-Afbeelding6
+ [M-71] Cystadenoma or mucocele of the appendix with a thickened vascularized distal end of the appendix: lbox_36534-Afbeelding2, lbox_36537-Afbeelding5, lbox_36538-Afbeelding6, lbox_36539-Afbeelding7
+ [F-51] Mucocele or cystadenoma of the appendix with a mucus filled appendix without signs of acute inflammation: lbox_36548-Afbeelding1, lbox_36549-Afbeelding2
+ [F-41] Mucocele with a cystic mass of 2,5 x 1,8 cm. with internal echos but without signs of inflammation: lbox_16441
+ [M-5] Thickened appendix without signs of an acute appendicitis that proved to be a mucus filled appendix with chronic inflammation: lbox_39300-Afbeelding1, lbox_39304-Afbeelding5, lbox_39306-Afbeelding7
+
+1.5.6 Post appendectomy
+ [M-24] Abscess after appendectomy: lbox_53942-Afbeelding1, lbox_53943-Afbeelding2, lbox_53945-Afbeelding4
+ [M-18] Patient treated for a perforated appendicitis with huge amounts of pus and air in the peritoneal cavity: lbox_37954-Afbeelding3, lbox_37955-Afbeelding4, lbox_37956-Afbeelding5, lbox_37959-Afbeelding8
+[?-?] lbox_2812, lbox_2813, lbox_2814
+
+------------------------------------------------------------------------------------------------------------------------
+
+1.6 GASTROINTESTINAL TRACT:
+
+1.6.1 Diverticulosis and diverticulitis
+ [F-50] Diverticulosis with air filled diverticula: lbox_25630, lbox_25631, lbox_25632, lbox_25633, lbox_25634, lbox_25635, lbox_25636
+ [F-46] Diverticulosis and peridiverticulitis with hyperechoic pericolic fat: lbox_19949, lbox_19950, lbox_19951, lbox_19952, lbox_19953, lbox_19954
+ [F-37] Diverticulosis of the sigmoid colon and peridiverticulitis: lbox_16729, lbox_16730, lbox_16731
+ [M-55] Diverticulitis: lbox_69134-Afbeelding1, lbox_69135-Afbeelding2, lbox_69136-Afbeelding3, lbox_69137-Afbeelding4, lbox_69138-Afbeelding5, lbox_69139-Afbeelding6
+ [F-45] Diverticulosis and peridiverticulitis: lbox_39896-Afbeelding1, lbox_39897-Afbeelding2, lbox_39898-Afbeelding3, lbox_39899-Afbeelding4, lbox_39900-Afbeelding5
+ [F-35] Peridiverticulitis with a large inflamed colon divericulum and thickened colon wall: lbox_26472, lbox_26473, lbox_26474, lbox_26476, lbox_26477
+ [M-52] Diverticulitis with an inflamed diverticulum surrounded by hyperechoic mesenteric fat: lbox_23999, lbox_24000, lbox_24001, lbox_24002, lbox_24003, lbox_24004
+ [M-70] Diverticulosis and peridiverticulitis of the sigmoid colon: lbox_57638-Afbeelding1, lbox_57639-Afbeelding2, lbox_57642-Afbeelding5, lbox_57643-Afbeelding6, lbox_57644-Afbeelding7
+ [M-66] Diverticulitis with an inflamed diverticulum and hyperechoic mesenteric fat: lbox_50012-Afbeelding1, lbox_50013-Afbeelding2, lbox_50014-Afbeelding3, lbox_50015-Afbeelding4, lbox_50016-Afbeelding5, lbox_50017-Afbeelding6
+ [M-46] Diverticulitis with an inflamed diverticulum: lbox_48568-Afbeelding1, lbox_48569-Afbeelding2, lbox_48571-Afbeelding4, lbox_48575-Afbeelding8
+ [F-33] Diverticulitis with a hypoechoic diverticulum with peridiverticulitis with hyperechoic inflamed mesenteric fat and a small effusion: lbox_13621, lbox_13622, lbox_13791
+
+1.6.2 Crohn's disease
+ [M-21] Crohn's disease with a transmural infect of the distal small intestine: lbox_71111-Afbeelding3, lbox_71113-Afbeelding5
+ [M-42] Crohn's disease with a thickened hypervascularized bowel wall: lbox_67505-Afbeelding1, lbox_67507-Afbeelding3, lbox_67508-Afbeelding4, lbox_67511-Afbeelding7 , lbox_67512-Afbeelding8, lbox_67513-Afbeelding9, lbox_67514-Afbeelding10, lbox_67515-Afbeelding11
+ [F-15] Crohn's disease with a thickened hypervascularized hypoechoic bowel wall and hyperechoic mesenteric fat: lbox_34554-Afbeelding1, lbox_34555-Afbeelding2, lbox_34556-Afbeelding3, lbox_34557-Afbeelding4, lbox_34558-Afbeelding5
+ [F-25] Crohn's disease with a thickened wall of the terminal ileum and some thickening of the wall of the ascending colon: lbox_24376, lbox_24377, lbox_24378, lbox_24380, lbox_24381, lbox_24382
+ [M-62] Crohn's disease with a thickening of the ileal wall: lbox_39028-Afbeelding1, lbox_39029-Afbeelding2, lbox_39030-Afbeelding3, lbox_39031-Afbeelding4, lbox_39032-Afbeelding5, lbox_39034-Afbeelding7
+ [M-18] Thickened base of the appendix in a patient with Crohn's disease. The thickening is reactive and does not indicate an appendicitis: lbox_25622, lbox_25623, lbox_25624, lbox_25625, lbox_25626, lbox_25627
+ [M-19] Crohn's disease with a thick hypervascularized mucosa and submucosa of the terminal ileum and a normal appendix: lbox_26483, lbox_26487, lbox_26484
+ [F-19] Crohn's disease with fistuling to the rectus abdominis muscle with air in the fistula: lbox_24385, lbox_24386, lbox_24387, lbox_24388
+ [M-17] Crohn's disease with pathological thickened hypervascularized bowel wall, adhesions fistula and a prestenotic bowel dilatation: lbox_23485, lbox_23487, lbox_23488
+ [F-48] Crohns disease with transmural inflammation and infiltrate: lbox_42695-Afbeelding1, lbox_42696-Afbeelding2, lbox_42697-Afbeelding3, lbox_42698-Afbeelding4, lbox_42705-Afbeelding5, lbox_42706-Afbeelding6, lbox_42707-Afbeelding7, lbox_42708-Afbeelding8
+ [F-66] Crohn's disease with inflamed bowel wall and a fistula with air moving through the fistula: lbox_44665-Afbeelding1, lbox_44666-Afbeelding2, lbox_44667-Afbeelding3, lbox_44668-Afbeelding4, lbox_44669-Afbeelding5, lbox_44670-Afbeelding6
+
+1.6.3 Ulcerative colitis
+ [F-20] Ulcerative colitis with thickened mucosa and submucosa. The muscularis is normal: lbox_50445-Afbeelding1, lbox_50446-Afbeelding2, lbox_50447-Afbeelding3, lbox_50448-Afbeelding4, lbox_50449-Afbeelding5
+ [M-29] Ulcerative colitis with a thickened vascularized colon wall in the distal part of the colon: lbox_40755-Afbeelding1, lbox_40759-Afbeelding5, lbox_40760-Afbeelding6, lbox_40761-Afbeelding7, lbox_40762-Afbeelding8, lbox_40763-Afbeelding9
+ [F-20] lbox_20874, lbox_20875, lbox_20876, lbox_20877, lbox_20878, lbox_20879
+ [F-50] Thickened bowel wall of the cecum and ascending colon. Endoscopy and biopsy proved this to be an ulcerative colitis: lbox_18437, lbox_18438, lbox_18439, lbox_18440
+ [F-13] Ulcerative colitis with a thickened colon wall in a 13 year old girl: lbox_14827, lbox_14828, lbox_14829, lbox_14830, lbox_14831
+ [M-13] Ulcerative colitis with a thickened hypervascularized colon wall surrounded by enlarged mesenteric lymph nodes in a 13 year old boy: lbox_24011, lbox_24013, lbox_24007, lbox_24009, lbox_24010
+ [F-20] Pancolitis with a thickened hypervascularized colon wall. Biopsy showed a severe indeterminate transmural inflammation: lbox_24970, lbox_24972, lbox_24974, lbox_24975, lbox_24976, lbox_24977, lbox_24978
+
+1.6.4 Infectious enterocolitis
+ [M-18] Clostridium difficile infect with a thick submucosa and to a lesser degree the mucosa: lbox_69751-Afbeelding1, lbox_69752-Afbeelding2, lbox_69753-Afbeelding3, lbox_69759-Afbeelding5, lbox_69760-Afbeelding6, lbox_69761-Afbeelding7, lbox_69762-Afbeelding8, lbox_69763-Afbeelding9
+ [F-48] Ileocecitis with a thickened submucosal wall: lbox_58212-Afbeelding1, lbox_58213-Afbeelding2, lbox_58215-Afbeelding4, lbox_58217-Afbeelding6
+  [M-40] Viral gastroenteritis with enlarged lymph nodes and not a Crohn. An MRI a few weeks later was normal: lbox_57303-Afbeelding1, lbox_57304-Afbeelding2, lbox_57307-Afbeelding5, lbox_57308-Afbeelding6, lbox_57309-Afbeelding7, lbox_57310-Afbeelding8
+ [F-46] Infectious enterocolitis with a thickened mucosa and submucosa. The muscularis is normal: lbox_55759-Afbeelding1, lbox_55760-Afbeelding2, lbox_55761-Afbeelding3, lbox_55762-Afbeelding4
+ [F-13] Enterocolitis with a thickened mucosa and submucosa. The muscularis is normal: lbox_50460-Afbeelding1, lbox_50462-Afbeelding3, lbox_50464-Afbeelding5, lbox_50465-Afbeelding6
+ [M-19] Infectious enterocolitis with a thickened bowel wall especialy the submucosa: lbox_49461-Afbeelding1, lbox_49462-Afbeelding2, lbox_49463-Afbeelding3, lbox_49464-Afbeelding4, lbox_49465-Afbeelding5
+ [F-18] Infectious enterocolitis with a thickened hypervascularized bowel wall and enlarged lymph nodes: lbox_49470-Afbeelding1, lbox_49474-Afbeelding5
+ [M-20] Infectious enterocolitis with thickened mucosa and submucosa of the ileum and colon: lbox_45483-Afbeelding1, lbox_45484-Afbeelding2, lbox_45485-Afbeelding3, lbox_45486-Afbeelding4, lbox_45487-Afbeelding5, lbox_45488-Afbeelding6
+ [F-16] Enterocolitis with a thickened bowel wall (submucosa) and enlarged mesenteric lymph nodes: lbox_23501, lbox_23502, lbox_23503, lbox_23504
+
+1.6.5 Free intraperitoneal gas and subcutaneous emphysema
+ [M-22] Gastric perforation with free peritoneal fluid and small air bubbles: lbox_32650-Afbeelding1, lbox_32651-Afbeelding2, lbox_32652-Afbeelding3, lbox_32653-Afbeelding4, lbox_32654-Afbeelding5
+ [F-68] Intraperitomeal leakage after a colon operation with free fluid and air bubbles: lbox_32630-Afbeelding1, lbox_32631-Afbeelding2, lbox_32632-Afbeelding3
+[M-57] Small bowel inflammation with a thickened wall and a small amount of free fluid and air in the peritoneal cavity: lbox_16167, lbox_16168, lbox_16169, lbox_16170
+ [M-76] Pitfall megacolon mimicking free peritoneal air: lbox_23507, lbox_23508, lbox_23509, lbox_23510
+ 
+1.6.6 Stomach and esophagus
+ [F-32] Normal esophagus filled with air and a bit of fluid: lbox_48595-Afbeelding1, lbox_48596-Afbeelding2, lbox_48597-Afbeelding3, lbox_48598-Afbeelding4, lbox_48599-Afbeelding5, lbox_48600-Afbeelding6 
+ [F-33] Protruding disc of the cervical spine impressing the esophagus (there are a few colloid cysts in the thyroid): lbox_43501-Afbeelding1, lbox_43502-Afbeelding2, lbox_43503-Afbeelding3, lbox_43504-Afbeelding4, lbox_43505-Afbeelding5, lbox_43506-Afbeelding6, lbox_43507-Afbeelding7
+ [M-67] Esophagus carcinoma and metastatic lymph node: lbox_44678-Afbeelding1, lbox_44679-Afbeelding2, lbox_44680-Afbeelding3, lbox_44681-Afbeelding4, lbox_44682-Afbeelding5, lbox_44683-Afbeelding6
+ [F-63] Esophagus carcinoma invading the thyroid and lymph node metastases: lbox_72423-Afbeelding1, lbox_72424-Afbeelding2, lbox_72425-Afbeelding3, lbox_72427-Afbeelding5, lbox_72428-Afbeelding6
+ [F-74] Stomach carcinoma with a thickened stomach wall and loss of the normal wall layers: lbox_68821-Afbeelding1, lbox_68822-Afbeelding2, lbox_68823-Afbeelding3, lbox_68824-Afbeelding4
+ [M-41] Linitis plastica with a thickened vascularized hypoechoic gastric wall Biopsy proved the wall thickening to be an adenocarcinoma: lbox_32663-Afbeelding1, lbox_32665-Afbeelding3, lbox_32666-Afbeelding4, lbox_32667-Afbeelding5, lbox_32668-Afbeelding6
+ [M-45] Stomach carcinoma with a thickened antral wall and enlarged lymph nodes: lbox_43511-Afbeelding1, lbox_43512-Afbeelding2, lbox_43513-Afbeelding3, lbox_43514-Afbeelding4, lbox_43515-Afbeelding5, lbox_43517-Afbeelding7
+ [F-85] Ovarian mass that proved to be a Krukenberg tumor in a patient with a gallbladder and stomach mass: lbox_66670-Afbeelding1, lbox_66671-Afbeelding2, lbox_66672-Afbeelding3, lbox_66673-Afbeelding4
+ [M-56] Thickened mucosa and submucosa of the stomach. Gastroscopy showed a gastritis and ulcerations: lbox_20232, lbox_20233, lbox_20234, lbox_20235
+
+1.6.7 Duodenum and small bowel
+ [M-57] Duodenal carcinoma with an irregular thickened duodenal wall: lbox_45923-Afbeelding1, lbox_45924-Afbeelding2, lbox_45925-Afbeelding3, lbox_45926-Afbeelding4
+ [F-68] Duodenal carcinoma (PA adeno ca) causing bile duct obstruction and liver metastases: lbox_58125-Afbeelding1, lbox_58126-Afbeelding2, lbox_58127-Afbeelding3, lbox_58128-Afbeelding4, lbox_58129-Afbeelding5
+ [F-80] Duodenum carcinoma (adenocarcinoma) with a hyoechoic vascularized mass and lymphe node metastases: lbox_18253, lbox_18254
+ [F-46] Irregular thickened duodenal wall that proved to be a duodenal carcinoma with liver metastases: lbox_66527-Afbeelding1, lbox_66528-Afbeelding2, lbox_66529-Afbeelding3, lbox_66530-Afbeelding4, lbox_66531-Afbeelding5, lbox_66532-Afbeelding6
+ [M-59] Bowel wall abscesses with intramural pus filled lesions with a vascularized wall: lbox_20241, lbox_20242
+ [F-20] Small bowel intussusception in a patient who also has an acute appendictis: lbox_24984
+ [M-67] Edematous thickened small bowel wall The findings disappeared after a few weeks: lbox_32711-Afbeelding1, lbox_32712-Afbeelding2, lbox_32713-Afbeelding3, lbox_32714-Afbeelding4
+ [F-67] Bowel wall ischemia: lbox_63158-Afbeelding1, lbox_63159-Afbeelding2, lbox_63161-Afbeelding4, lbox_63162-Afbeelding5, lbox_63163-Afbeelding6
+ [F-75] Massisively localized thickened bowel wall that was caused by a T cell lymphoma: lbox_62783-Afbeelding2, lbox_62785-Afbeelding4, lbox_62786-Afbeelding5, lbox_62787-Afbeelding6, lbox_62788-Afbeelding7
+
+1.6.8 Colon tumors
+ [M-68] Colon polyp in the colon: lbox_36516-Afbeelding3, lbox_36518-Afbeelding4, lbox_36519-Afbeelding5, lbox_36520-Afbeelding6
+ [M-72] Colon polyp with a hypoechoic mass in the colon displacing the intraluminal air: lbox_25963, lbox_25964, lbox_25965, lbox_25966
+ [F-86] Intussusception of the rectum caused by a benign villous adenoma: lbox_19465, lbox_19466, lbox_19467
+ [M-65] Hypoechoic colon mass that proved to be a melanoma: lbox_50987-Afbeelding1, lbox_50988-Afbeelding2, lbox_50989-Afbeelding3, lbox_50990-Afbeelding4, lbox_50991-Afbeelding5
+ [F-61] Adenocarcinoma in the transverse colon with a hypoechoic vascularized mass with central air configuration: lbox_22674, lbox_22676
+ [M-43] Colon carcinoma with liver and mesenteric lymph node metastases: lbox_62120-Afbeelding1, lbox_62122-Afbeelding3
+ [M-75] Colon carcinoma with a localized irregular thickened vascularized bowel wall: lbox_67684-Afbeelding1, lbox_67686-Afbeelding3
+ [M-80] Colon carcinoma with liver and mesenteric lymph node metastases: lbox_40878-Afbeelding1, lbox_40879-Afbeelding2, lbox_40880-Afbeelding3, lbox_40881-Afbeelding4, lbox_40882-Afbeelding5, lbox_40883-Afbeelding6
+ [M-23] Thickened cecum and ileocecal valve and enlarged lymphe nodes that could be mistaken for an ileocecitis, but proved to be a cecal carcinoma: lbox_18281, lbox_18282, lbox_18285
+ [F-65] Colon carcinoma with a large mass in contiuation with the ascending colon: lbox_44688-Afbeelding1, lbox_44689-Afbeelding2, lbox_44690-Afbeelding3, lbox_44691-Afbeelding4
